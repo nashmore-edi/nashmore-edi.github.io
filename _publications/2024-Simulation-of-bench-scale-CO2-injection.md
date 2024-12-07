@@ -6,7 +6,6 @@ permalink: /publication/2024-Simulation-of-bench-scale-CO2-injection
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-12-01
 venue: 'Science of the Total Environment'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0048969724067950'
 citation: 'Ashmore, N. A., Krol, M. M., Gilfillan, S. M. V., Van De Ven, C. J.C., Mumford, K. G., Molnar, I. M. (2024). &quot;Paper Title Number 1.&quot; <i>Science of the Total Environment</i>, 954, 176639. https://doi.org/10.1016/j.scitotenv.2024.176639.'
 ---
