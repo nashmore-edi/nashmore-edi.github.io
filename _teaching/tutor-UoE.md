@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and graduate courses"
 permalink: /teaching/tutor-UoE
 venue: "The Univeristy of Edinburgh, School of GeoSciences"
-date: 2021 - Present
+date: 2021-09-01
 location: "Edinburgh, Scotland"
 ---
 Tutor on multiple undergraduate and graduate level courses in the hydrogeology program at the University of Edinburgh. Courses include fundamentals of hydrogeology, development of numerical models in Python, MODFLOW and OpenGeoSys, desktop environmental site assessment and field methods in hydrogeology.
