@@ -15,8 +15,8 @@ You can download a PDF copy of my CV [here](/files/Nicholas_Ashmore_CV.pdf){: .b
 Education
 ======
 * Ph.D in Geology and Geophysics, The University of Edinburgh, 2025 (expected)
-* M.Asc in Civil Engineering, Queen's University, Kingston, Canada, 2021
-* B.Asc in Civil Engineering, Queen's University, Kingston, Canada, 2018 
+* M.ASc in Civil Engineering, Queen's University, Kingston, Canada, 2021
+* B.ASc in Civil Engineering, Queen's University, Kingston, Canada, 2018 
 
 Work experience
 ======
