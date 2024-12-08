@@ -1,0 +1,13 @@
+---
+title: "ET-MIP: A coupled model approach to simulating the fate and transport of CO<sub>2<\sub> in overburden"
+collection: talks
+type: "Conference Presentation"
+permalink: /talks/2023-05-23-InterPore
+venue: "InterPore2023"
+date: 2023-05-23
+location: "Edinburgh, Scotland"
+---
+
+**Astract:**
+>CCarbon capture and storage (CCS) has emerged as a principal emissions reduction technology for the energy transition. Its effectiveness hinges largely on the security of the storage reservoir, which may be susceptible to leakage through permeable pathways such as abandoned wells and faults. Storage failure presents risks of environmental impacts, increases atmospheric carbon emissions, reduces the value of carbon credits, and reduces public confidence in CCS as a viable technology for the energy transition. Despite the importance of storage security, our understanding of <sub>2<\sub> leakage and its fate and transport in overburden remains limited, hindering the prediction, detection and assessment of leaks. There is a need for numerical models capable of accurately predicting the fate and transport of <sub>2<\sub> in the subsurface. However, traditional multiphase flow models struggle to describe the buoyant unstable gas flow regime expected at leak sites, motivating the use of other modelling approaches.
+Unstable gas flow is characterized by discontinuous gas clusters and sharp variations in gas saturations in space, in contrast with the smooth variation in gas saturation predicted by continuum multiphase flow models. Discrete approaches such as macroscopic invasion percolation are better equipped to model unstable gas flow and are less computationally intensive, however they are limited by assumptions of instantaneous gas movement. ET-MIP (Electro-thermal macroscopic invasion percolation) is a general purpose model which couples continuum-based electrical, thermal, groundwater and chemical species modules with a discrete macroscopic invasion percolation gas flow module. This coupled approach allows for accurate simulation of slow gas displacement characteristic of shallow subsurface gas releases while simultaneously predicting the dissolution of <sub>2<\sub>. ET-MIP has been validated against bench scale experiments and shown to accurately predict gas generation, multiphase transport and capillary trapping – all mechanisms which govern the fate of <sub>2<\sub> in the subsurface. However, the model has not yet been applied to gas injections with simultaneous mass transport. This talk will present validation of ET-MIP against a bench-scale <sub>2<\sub> injection and dissolution experiment, and explore the migration of leaking <sub>2<\sub> in the subsurface.
