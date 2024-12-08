@@ -46,7 +46,7 @@ I'm always open to collaboration and conversation, so please don't hesitate to r
             <li>contaminant transport</li>
             <li>climate change</li>
         <br>
-        <p>For more info about my research areas, see <a href="/research/" class="btn--research">Research</a>.</p>
+        <!-- <p>For more info about my research areas, see <a href="/research/" class="btn--research">Research</a>.</p>-->
         </div>
         <!-- EDUCATION COLUMN (RIGHT)-->
         <div class="column">
