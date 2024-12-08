@@ -11,6 +11,7 @@ redirect_from:
 <iframe src="/files/pdf/Nicholas_Ashmore_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download a PDF copy of my CV [here](/files/pdf/Nicholas_Ashmore_CV.pdf){: .btn--research}
+
 Education
 ======
 * Ph.D in Geology and Geophysics, The University of Edinburgh, 2025 (expected)
@@ -78,7 +79,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
