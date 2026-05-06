@@ -40,11 +40,12 @@ I'm always open to collaboration and conversation, so please don't hesitate to r
         <!-- RESEARCH INTERESTS COLUMN (LEFT)-->
         <div class="column">
             <h1 id="research-interests">Research Interests</h1>
+            <li>climate change</li>
+            <li>carbon dioxide removals</li>
             <li>hydrogeology</li>
             <li>numerical modeling</li>
             <li>environmental engineering</li>
             <li>contaminant transport</li>
-            <li>climate change</li>
         <br>
         <!-- <p>For more info about my research areas, see <a href="/research/" class="btn--research">Research</a>.</p>-->
         </div>
@@ -53,7 +54,7 @@ I'm always open to collaboration and conversation, so please don't hesitate to r
             <h1 id="education">Education</h1>
             <ul class="fa-ul">
               <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-                  The University of Edinburgh, 2025 (Expected)
+                  The University of Edinburgh, 2025
                   <p style="color:#7a8288"><small>Ph.D Geology and Geophysics</small></p>
               </li>
               <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
