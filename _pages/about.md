@@ -62,7 +62,7 @@ I'm always open to collaboration and conversation, so please don't hesitate to r
                   <p style="color:#7a8288"><small>M.ASc Civil Engineering</small></p>
               </li>
               <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>
-                  Queen's University, Canda, 2018
+                  Queen's University, Canada, 2018
                   <p style="color:#7a8288"><small>B.ASc Civil Engineering</small></p>
               </li>
 
