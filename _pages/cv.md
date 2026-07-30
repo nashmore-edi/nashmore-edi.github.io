@@ -20,6 +20,17 @@ Education
 
 Work experience
 ======
+* Hydrogeologist, Stantec, Edinburgh UK (2025-Present)
+  * Applied innovative analytical tools and numerical models to assess groundwater drought, surface water augmentation schemes and groundwater abstraction sustainability
+  * Communicated technical modeling outputs into actionable insights for water industry clients and environmental regulators, adapting presentation to audience technical knowledge
+  * Implemented team-wide code management practises using DevOps, improving code quality and increasing both collaboration and accessibility of Python code
+
+* Subsurface CO<sub>2</sub> Storage Consultant, Isometric, UK (2025-Present)
+  * Reviewed carbon dioxide removal suppliers CO2 storage monitoring plans for compliance with local permitting requirements and scientific rigour
+  * Aligned existing CO2 subsurface storage modules to streamline crediting process
+  * Prepared research documents on scientific developments relevant to business operations
+
+
 * Environmental Consultant, GSI Environmental, Austin TX (2020-2021)
   * Developed software package ([DE-GAS Toolkit](/publication/2022-Calculation-of-gas-ratios), available [online](https://www.gsienv.com/software/other-models-and-tools/de-gas-toolkit/)) for characterization and interpretation of dissolved gas data using Visual Basic
   * Monitored fugitive gas migration from leaking gas wells in the Marcellus shale through analysis dissolve gas and isotope data
