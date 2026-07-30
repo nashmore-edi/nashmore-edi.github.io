@@ -3,7 +3,7 @@ title: "Importance of Multicomponent Mass Transfer on the Dissolution of Trapped
 collection: publications
 category: manuscripts
 permalink: /publication/2023-Multicomponent-mass-transfer-geoenergy
-excerpt: 'Multicomponen tmass transfer was shown to be a key process in the evolution of dissolved gas concentrations, molecular ratios, and persistence of gasin the subsurface, particularly due to the presence of background dissolved gases. Simulations showed that consideration of background gases improves the fit to the experimental dissolution data. The results highlight that consideration of the multicomponent nature of shallow subsurface systems when evaluating the impacts of geo-energy well leaks would improve futuremonitoring and modeling efforts.'
+excerpt: 'Multicomponent mass transfer was shown to be a key process in the evolution of dissolved gas concentrations, molecular ratios, and persistence of gasin the subsurface, particularly due to the presence of background dissolved gases. Simulations showed that consideration of background gases improves the fit to the experimental dissolution data. The results highlight that consideration of the multicomponent nature of shallow subsurface systems when evaluating the impacts of geo-energy well leaks would improve futuremonitoring and modeling efforts.'
 date: 2023-11-23
 venue: 'ES&T Engineering'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/acsestengg.3c00150'
