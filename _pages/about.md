@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Hydrogeologist and expert in Carbon Dioxide Removals, with a specicialization in numerical modelling. Under the supervision of Dr. Ian Molnar, my PhD research focused on predicting the fate and migration of CO<sub>2</sub> in carbon capture and storage reservoir overburden. I developed and appleid numerical models to simulate gas flow in aquifers to better understand potential impacts to water resources. My background is in *environmental engineering*, and my research is primarily on contaminant transport in the shallow subsurface. This had led to research topics including [*stray gas migration*](/publication/2023-Multicomponent-mass-transfer-geoenergy), [*carbon capture and storage*](/publication/2024-Simulation-of-bench-scale-CO2-injection) and *groundwater-surface water interaction*.
+I am a Hydrogeologist and expert in Carbon Dioxide Removals, with a specicialization in numerical modelling. Under the supervision of Dr. Ian Molnar, my PhD research focused on predicting the fate and migration of CO<sub>2</sub> in carbon capture and storage reservoir overburden. I developed and applied numerical models to simulate gas flow in aquifers to better understand potential impacts to water resources. My background is in *environmental engineering*, and my research is primarily on contaminant transport in the shallow subsurface. This had led to research topics including [*stray gas migration*](/publication/2023-Multicomponent-mass-transfer-geoenergy), [*carbon capture and storage*](/publication/2024-Simulation-of-bench-scale-CO2-injection) and *groundwater-surface water interaction*.
 
 I'm always open to collaboration and conversation, so please don't hesitate to reach out. You can find my email in the sidebar.
 
@@ -41,8 +41,8 @@ I'm always open to collaboration and conversation, so please don't hesitate to r
         <div class="column">
             <h1 id="research-interests">Research Interests</h1>
             <li>climate change</li>
-            <li>carbon dioxide removals</li>
             <li>hydrogeology</li>
+            <li>carbon removals</li>
             <li>numerical modeling</li>
             <li>environmental engineering</li>
             <li>contaminant transport</li>
