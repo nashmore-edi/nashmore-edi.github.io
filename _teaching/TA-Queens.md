@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/TA-Queens
 venue: "Queen's University, Deparment of Civil Engineering"
-date: 2018
+date: 2018-09-01
 location: "Kingston, Ontario"
 ---
 
